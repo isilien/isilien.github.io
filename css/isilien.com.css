@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #ffffff;
+  border: 0px solid #e7e7e7;
+}
+
+.navbar .navbar-nav > .active > a {
+  background-color: #ffffff;
+  border-bottom: 4px solid #e7e7e7;
+}
+
+#footer {
+  background-color: #ffffff;
+}
+
+#footer > .container {
+  border-top: 1px solid #e7e7e7;
+}
